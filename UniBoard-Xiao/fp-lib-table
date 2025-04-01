@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Seeed Studio XIAO Series Library")(type "KiCad")(uri "${KIPRJMOD}/librairies/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "librairies")(type "KiCad")(uri "${KIPRJMOD}/librairies")(options "")(descr ""))
+  (lib (name "TEN_50-2411")(type "KiCad")(uri "${KIPRJMOD}/librairies/TEN_50-2411")(options "")(descr ""))
+  (lib (name "TMC2209_SILENTSTEPSTICK")(type "KiCad")(uri "${KIPRJMOD}/librairies/TMC2209_SILENTSTEPSTICK")(options "")(descr ""))
+)
