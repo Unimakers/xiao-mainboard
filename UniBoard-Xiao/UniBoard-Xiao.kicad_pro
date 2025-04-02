@@ -58,7 +58,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|190949000|82424167|17cdbe88-65fe-4060-969e-9015c4de82b0|a3eeeb88-f4dc-4e97-b35f-52f1648021af",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -107,6 +112,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
